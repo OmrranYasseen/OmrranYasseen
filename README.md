@@ -1,5 +1,16 @@
-## Hi there 👋
+## 🎓 Education
 
+**Bachelor's Degree in Information Technology**
+
+## 🤖 Currently Learning
+
+- AI Engineering
+- Python
+- Data Engineering
+- RAG
+- Linux & Bash
+- Docker
+- Git & GitHub
 <!--
 **OmrranYasseen/OmrranYasseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
